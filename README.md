@@ -1,4 +1,6 @@
 # Self-Similarity-Matrix-Songs
+Creditis to [SongSim by Colin Morris](https://colinmorris.github.io/SongSim/)
+
 Creates a self-similarity matrix for song lyrics
 
 Billie Eilish - bury a friend in 4 possible versions:
@@ -14,5 +16,3 @@ mode='RGB' dark=1
 
 ![alt-text](https://github.com/MarcoGrivol/Self-Similarity-Matrix-Songs/blob/master/bury-a-friend-dark.png)
 mode='RGB' dark=0
-
-Creditis to [SongSim by Colin Morris](https://colinmorris.github.io/SongSim/)
